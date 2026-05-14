@@ -70,9 +70,7 @@ open index.html
 
 | Platform | Link |
 |---|---|
-| 🔴 GitHub Pages | [your-username.github.io/shopbd]([https://your-username.github.io/shopbd](https://rahul-3613.github.io/shopbd/)) |
-| 🟣 Netlify | [shopbd.netlify.app](Pending) |
-| 🔵 Vercel | [shopbd.vercel.app](pending) |
+| 🔴 GitHub Pages | [your-username.github.io/shopbd](https://rahul-3613.github.io/shopbd/)|
 
 > Update these links after deploying!
 
