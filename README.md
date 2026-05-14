@@ -53,7 +53,7 @@ shopbd/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/shopbd.git
+git clone [https://github.com/your-username/shopbd.git](https://rahul-3613.github.io/shopbd/)
 
 # 2. Open the folder
 cd shopbd
@@ -62,7 +62,7 @@ cd shopbd
 open index.html
 ```
 
-> 💡 **Tip:** Use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code for the best experience.
+> 💡 **Tip:** Use the [Live Server]([https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://rahul-3613.github.io/shopbd/)) extension in VS Code for the best experience.
 
 ---
 
@@ -70,9 +70,9 @@ open index.html
 
 | Platform | Link |
 |---|---|
-| 🔴 GitHub Pages | [your-username.github.io/shopbd](https://your-username.github.io/shopbd) |
-| 🟣 Netlify | [shopbd.netlify.app](https://shopbd.netlify.app) |
-| 🔵 Vercel | [shopbd.vercel.app](https://shopbd.vercel.app) |
+| 🔴 GitHub Pages | [your-username.github.io/shopbd]([https://your-username.github.io/shopbd](https://rahul-3613.github.io/shopbd/)) |
+| 🟣 Netlify | [shopbd.netlify.app](Pending) |
+| 🔵 Vercel | [shopbd.vercel.app](pending) |
 
 > Update these links after deploying!
 
